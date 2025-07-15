@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🟦 Lenguajes de Programación</p>
+<p align="left">🟦 Lenguaje de Programación</p>
 
 ###
 
