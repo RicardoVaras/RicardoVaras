@@ -51,3 +51,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-990000?style=for-the-badge&logo=putty&logoColor=white)
 
+###
+
+_"Siempre buscando el siguiente reto, con el teclado listo y el café en mano."_ ☕💻
