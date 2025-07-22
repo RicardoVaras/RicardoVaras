@@ -1,4 +1,4 @@
-# WELCOME, MY NAME IS RICARDO VARAS RAMOS 👋
+# Welcome, My name is Ricardo Varas Ramos 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FFA500&vCenter=true&width=540&lines=I'M+A+FULL+STACK+DEVELOPER;STACKING+SKILLS+LIKE+XP+POINTS.)](https://git.io/typing-svg)
 
