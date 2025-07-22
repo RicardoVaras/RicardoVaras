@@ -1,6 +1,6 @@
 <h1 align="left">Bienvenidos, soy Ricardo Varas, Desarrollador Full Stack. 👋</h1>
 
-# Hi, My name is Mauricio Ramon Silva Sandoval
+# Hi, My name is Ricardo Varas Ramos
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=EFDC4C&vCenter=true&width=480&lines=I'm+a+frontend+web+developer;And+a+great+coworker.)](https://git.io/typing-svg)
 
