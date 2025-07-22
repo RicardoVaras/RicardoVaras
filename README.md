@@ -1,8 +1,6 @@
-<h1 align="left">Bienvenidos, soy Ricardo Varas, Desarrollador Full Stack. 👋</h1>
+# Welcome, My name is Ricardo Varas Ramos 👋
 
-# Hi, My name is Ricardo Varas Ramos
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=EFDC4C&vCenter=true&width=480&lines=I'm+a+frontend+web+developer;And+a+great+coworker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FFA500&vCenter=true&width=480&lines=I'M+A+FULL+STACK+DEVELOPER;STACKING+SKILLS+LIKE+XP+POINTS.)](https://git.io/typing-svg)
 
 
 ###
