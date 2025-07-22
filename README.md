@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FFA500&vCenter=true&width=540&lines=I'M+A+FULL+STACK+DEVELOPER;STACKING+SKILLS+LIKE+XP+POINTS.)](https://git.io/typing-svg)
 
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoVaras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoVaras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h2 align="left">Acerca de mí:</h2>
