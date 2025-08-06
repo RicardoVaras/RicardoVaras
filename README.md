@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🚀 Desarrollador Full Stack con más de 5 años de experiencia profesional, especializado en el desarrollo de aplicaciones web y móviles. He participado en diversos proyectos utilizando tecnologías como React, Angular, PHP, Laravel, Node.js y Express, y trabajando con bases de datos SQL Server y MySQL.<br><br> 💡 Cuento con experiencia en la creación y consumo de APIs RESTful, garantizando integraciones limpias y mantenibles.<br><br> 🛠️ He desarrollado e implementado soluciones completas en entornos Linux y Windows, configurando servicios como Nginx para entornos productivos. Asimismo, he creado aplicaciones móviles nativas en Android.<br><br> 📚 Soy una persona autodidacta y proactiva, apasionada por la tecnología, enfocada en la mejora continua y comprometida con la entrega de soluciones de calidad.</p>
+<p align="left">🚀 Desarrollador Full Stack con más de 5 años de experiencia profesional, especializado en el desarrollo de aplicaciones web y móviles. He participado en diversos proyectos utilizando tecnologías como React, Angular, PHP, Laravel, Node.js y Express, y trabajando con bases de datos SQL Server y MySQL.<br><br> 💡 Cuento con experiencia en la creación y consumo de APIs RESTful, garantizando integraciones limpias y mantenibles.<br><br> 🛠️ He desarrollado e implementado soluciones completas en entornos Linux y Windows, configurando servicios como Nginx para entornos productivos. Asimismo, he creado aplicaciones móviles nativas en Android.<br><br> 📚 Soy una persona autodidacta y proactiva, apasionada por la tecnología, enfocada en la mejora continua y comprometido con la entrega de soluciones de calidad.</p>
 
 ###
 
