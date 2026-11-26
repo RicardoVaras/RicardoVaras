@@ -1,16 +1,4 @@
-<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><title>Vista previa README</title><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{background:#0d1117;color:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;margin:0;padding:24px;line-height:1.5}
-.note{max-width:960px;margin:0 auto 16px;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:10px 14px;font-size:13px;color:#8b949e}
-.box{max-width:960px;margin:0 auto;border:1px solid #30363d;border-radius:6px;padding:16px 32px 32px}
-.path{font-size:12px;font-family:monospace;padding:8px 0 16px}
-h2{border-bottom:1px solid #30363d;padding-bottom:.3em;font-size:1.5em;margin-top:24px}
-h3{font-size:1.1em;margin:.3em 0 .5em}
-a{color:#4493f8;text-decoration:none} img{max-width:100%;vertical-align:middle}
-p img{margin:2px 1px}
-pre{background:#161b22;padding:14px;border-radius:6px;overflow:auto;font-size:12.5px;margin:0}
-code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
-table{border-collapse:collapse;margin:0 auto;width:auto} td{border:1px solid #30363d;padding:12px 14px}
-table[align=center]{margin:0 auto} tr:nth-child(2n){background:#161b22}
-td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div class="note">Vista previa aproximada de cómo se verá en GitHub (modo oscuro). Necesita internet para cargar los íconos y el banner.</div><div class="box"><div class="path">RicardoVaras / README.md</div><!-- ============================== HEADER ============================== -->
+<!-- ============================== HEADER ============================== -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7a3b14,100:dc7633&height=260&section=header&text=Ricardo%20Varas%20Ramos&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Data&descSize=20&descAlignY=62&descAlign=50&animation=twinkling&stroke=dc7633&strokeWidth=1" alt="Ricardo Varas Ramos" />
 </p>
@@ -23,11 +11,12 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardovaras/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Trujillo-Perú_🇵🇪-dc7633?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Trujillo, Perú" />
+  <img src="https://img.shields.io/badge/Trujillo-Perú-dc7633?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Trujillo, Perú" />
   <img src="https://img.shields.io/badge/Abierto_a-Nuevos_retos-2ea043?style=for-the-badge&logo=rocket&logoColor=white" alt="Abierto a nuevos retos" />
 </p>
 
-<p><br></p>
+<br>
+
 <!-- ============================== SOBRE MÍ ============================== -->
 <h2 align="center">⚡ Sobre mí</h2>
 
@@ -38,41 +27,41 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%" markdown="1">
+    <td valign="top" width="50%">
 
-<p style="margin:.5em 0">🏢 &nbsp;Proyectos para empresas de los sectores <b>pesquero, industrial e infraestructura</b>
+🏢 &nbsp;Proyectos para empresas de los sectores **pesquero, industrial e infraestructura**
 
-<p style="margin:.5em 0">🔄 &nbsp;Transformo formatos en papel, Excel y aprobaciones manuales en <b>plataformas digitales</b>
+🔄 &nbsp;Transformo formatos en papel, Excel y aprobaciones manuales en **plataformas digitales**
 
-<p style="margin:.5em 0">🧩 &nbsp;Paso <b>mockups de negocio</b> a aplicaciones reales, listas para usuarios en campo y oficina
+🧩 &nbsp;Paso **mockups de negocio** a aplicaciones reales, listas para usuarios en campo y oficina
 
-<p style="margin:.5em 0">🤖 &nbsp;Integrando <b>IA</b> en aplicaciones empresariales
+🤖 &nbsp;Integrando **IA** en aplicaciones empresariales
 
-<p style="margin:.5em 0">📚 &nbsp;Autodidacta, proactivo y enfocado en la <b>mejora continua</b>
+📚 &nbsp;Autodidacta, proactivo y enfocado en la **mejora continua**
 
 </td>
-    <td valign="top" width="50%" markdown="1">
+    <td valign="top" width="50%">
 
-
-<pre><code class="language-js">const ricardo = {
-  rol: &quot;Full Stack Developer&quot;,
-  base: &quot;Trujillo, Perú&quot;,
-  experiencia: &quot;+5 años&quot;,
-  front: [&quot;React&quot;, &quot;Angular&quot;, &quot;TS&quot;],
-  back: [&quot;Node.js&quot;, &quot;NestJS&quot;, &quot;Laravel&quot;],
-  mobile: [&quot;Flutter&quot;, &quot;Android&quot;],
-  datos: [&quot;SQL Server&quot;, &quot;MySQL&quot;],
-  infra: [&quot;Linux&quot;, &quot;Nginx&quot;, &quot;Docker&quot;],
-  combustible: &quot;☕☕☕&quot;
+```js
+const ricardo = {
+  rol: "Full Stack Developer",
+  base: "Trujillo, Perú",
+  experiencia: "+5 años",
+  front: ["React", "Angular", "TS"],
+  back: ["Node.js", "NestJS", "Laravel"],
+  mobile: ["Flutter", "Android"],
+  datos: ["SQL Server", "MySQL"],
+  infra: ["Linux", "Nginx", "Docker"],
+  combustible: "☕☕☕"
 };
-</code></pre>
-
+```
 
 </td>
   </tr>
 </table>
 
-<p><br></p>
+<br>
+
 <!-- ============================== LO QUE HAGO ============================== -->
 <h2 align="center">🚀 Lo que hago</h2>
 
@@ -101,7 +90,8 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
   </tr>
 </table>
 
-<p><br></p>
+<br>
+
 <!-- ============================== TECH STACK ============================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -144,7 +134,8 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
   </tr>
 </table>
 
-<p><br></p>
+<br>
+
 <!-- ============================== CÓMO TRABAJO ============================== -->
 <h2 align="center">🔁 Del mockup a producción</h2>
 
@@ -160,7 +151,8 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
   <img src="https://img.shields.io/badge/5._Deploy-1a1b27?style=for-the-badge&logo=nginx&logoColor=dc7633" alt="Deploy" />
 </p>
 
-<p><br></p>
+<br>
+
 <!-- ============================== PROYECTOS ============================== -->
 <h2 align="center">💼 Proyectos destacados</h2>
 
@@ -220,7 +212,8 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
   </tr>
 </table>
 
-<p><br></p>
+<br>
+
 <!-- ============================== CONTACTO ============================== -->
 <h2 align="center">🤝 ¿Trabajamos juntos?</h2>
 
@@ -236,4 +229,4 @@ td p{margin:.45em 0} sub{color:#9da7b3;font-size:12px}</style></head><body><div 
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc7633,50:7a3b14,100:0d1117&height=120&section=footer" alt="footer" />
-</p></div></body></html>
+</p>
