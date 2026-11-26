@@ -48,7 +48,7 @@ const ricardo = {
   base: "Trujillo, Perú",
   experiencia: "+5 años",
   front: ["React", "Angular", "TS"],
-  back: ["Node.js", "NestJS", "Laravel"],
+  back: ["Node.js", "Laravel"],
   mobile: ["Flutter", "Android"],
   datos: ["SQL Server", "MySQL"],
   infra: ["Linux", "Nginx", "Docker"],
@@ -73,7 +73,7 @@ const ricardo = {
       <sub>Interfaces modernas, responsivas y fieles al diseño, con componentes reutilizables.</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" height="40" alt="Backend" /><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,laravel" height="40" alt="Backend" /><br><br>
       <b>Backend & APIs</b><br>
       <sub>APIs RESTful, autenticación, roles y permisos, y tiempo real con WebSockets.</sub>
     </td>
@@ -107,7 +107,7 @@ const ricardo = {
   <tr>
     <td align="right"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,symfony&theme=dark" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,symfony&theme=dark" alt="Backend" />
       <br><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
     </td>
   </tr>
